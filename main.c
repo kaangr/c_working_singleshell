@@ -1,3 +1,6 @@
+//strerror diye bir fonksiyon var errorları string döndürüyor bu şekilde genel projece yazabiliriz
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
